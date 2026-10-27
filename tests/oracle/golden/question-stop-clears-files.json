@@ -1,0 +1,9 @@
+{
+  "stdout": "stopped\n",
+  "stderr": "",
+  "exit": 1,
+  "signal": null,
+  "files": {
+    ".impeccable/questions/k1.log": "log\n"
+  }
+}

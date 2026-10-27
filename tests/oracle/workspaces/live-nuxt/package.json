@@ -1,0 +1,1 @@
+{ "name": "oracle-live-nuxt", "private": false, "type": "module", "dependencies": { "nuxt": "^3.0.0" } }
